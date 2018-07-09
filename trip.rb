@@ -18,4 +18,4 @@ eats = gets.chomp
 puts "How many days are you staying?"
 nights = gets.chomp
 
-puts "Hi! I would like to stay at #{stay},eat #{eat}, and will stay for #{length} days"
+puts "Hi! I would like to stay at #{stay},eat #{eats}, and will stay for #{nights} days"
